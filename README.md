@@ -4,6 +4,8 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 
 ## Questões
 
+{c:violet}Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números.{/c}
+
 | Question | Description |
 |---|---|
 |01| {c:violet}Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números.{/c} |
@@ -16,4 +18,3 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 |22| Faça o mesmo que na questão 21, calculando no final o centroide do objeto segmentado pelo método Crescimento de Regiões 3D, apresentando a região segmentada em azul e o centroide em verde. |
 |24| Abrir uma imagem colorida e aplique a técnica Crescimento de Regiões (Region Growing). Para isto, pegue uma imagem qualquer real, com tanto que a mesma possua um objeto se destaque do fundo. Inicialize a semente com um clique neste objeto, conforme na questão 21 e encontre uma regra de adesão que seja capaz de segmentar este objeto. Aplique o Crescimento de Regiões de forma iterativa, em que o algoritmo irá estabilizar apenas quando a região parar de crescer. Este tópico diferenciasse dna questão 23 por ser necessário encontrar uma regra que utilize os canais R, G e B simultanemante. |
 |25|   |
-{c:violet}Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números.{/c}
