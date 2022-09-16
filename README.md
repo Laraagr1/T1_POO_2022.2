@@ -6,7 +6,7 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 
 | Question | Description |
 |---|---|
-|01| {c:violet}Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números.{/c} |
+{c:violet}|01| Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números.{/c} |
 |02| Abrir uma imagem colorida, transformar em níveis de cinza, visualizar e salvar imagem gerada. | 
 |03| Abrir uma imagem colorida em RGB, visualizar e salvar cada um dos canais separadamente. Obs: Busquem compreender o que significa cada um dos canais. |
 |04| 	Abrir uma imagem colorida, transformar em HSV, visualizar e salvar cada um dos canais separadamente. Obs: Busquem compreender o que significa cada um dos canais.
