@@ -6,7 +6,7 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 
 | Question | Description |
 |---|---|
-|01| {c:violet}Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números.{/c} |
+|01| Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números. |
 |02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas. |  
 |09| Faça um programa que calcule e mostre a área de um triângulo. |
 |10| Faça um programa que calcule e mostre a área de um círculo. |
