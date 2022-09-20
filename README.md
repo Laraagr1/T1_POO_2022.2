@@ -4,7 +4,7 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 
 ## Questões
 
-| Question | Description |
+| Questão | Descrição |
 |---|---|
 |01| Faça um programa que receba quatro números inteiros, calcule o mostre a soma desses números. |
 |02| Faça um programa que receba três notas, calcule e mostre a média aritmética entre elas. |  
@@ -15,3 +15,8 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 |22| Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: |
 |24| Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. |
 |25| Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado. |
+<div align="center">
+  <img align="center" alt="Java-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Erick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Erick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+</div>
