@@ -1,8 +1,10 @@
 # T1_POO_2022.2
 
-Este repositório contém questões selecionadas por mim em meu primeiro trabalho na disciplina de POO Java do meu curso de Técnico em Informática no IFCE Campus Fortaleza!
+Este repositório contém questões do meu primeiro trabalho no curso Java POO ministrado pelo Professor [Roger Moura](https://github.com/rogermsarmento) do meu curso de Técnico em Informática no IFCE Campus Fortaleza!
 
- <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+<div align="center">
+  <img height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
 ## Questões
 
@@ -17,7 +19,3 @@ Este repositório contém questões selecionadas por mim em meu primeiro trabalh
 |22| Sabe-se que o quilowatt de energia custa um quinto do salário mínimo. Faça um programa que receba o valor do salário mínimo e a quantidade de quilowatts consumida por uma residência. Calcule e mostre: |
 |24| Faça um programa que receba uma hora formada por hora e minutos (um número real), calcule e mostre a hora digitada apenas em minutos. |
 |25| Faça um programa que receba o custo de um espetáculo teatral e o preço do convite desse espetáculo. Esse programa deve calcular e mostrar a quantidade de convites que devem ser vendidos para que pelo menos o custo do espetáculo seja alcançado. |
-<div align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> 
-  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-</div>
