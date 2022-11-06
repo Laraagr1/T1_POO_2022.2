@@ -2,6 +2,8 @@
 
 Este repositório contém questões selecionadas por mim em meu primeiro trabalho na disciplina de POO Java do meu curso de Técnico em Informática no IFCE Campus Fortaleza!
 
+ <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 ## Questões
 
 | Questão | Descrição |
